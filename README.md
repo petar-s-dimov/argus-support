@@ -1,8 +1,7 @@
 # Argus Support
 
 This is the public support and Marketplace-asset repository for the
-[Argus VS Code extension](https://marketplace.visualstudio.com/items?itemName=petar-s-dimov.argus-worktree-agent-sessions).
-The extension source is maintained separately.
+Argus VS Code extension. The extension source is maintained separately.
 
 ## Report a problem or request a feature
 
